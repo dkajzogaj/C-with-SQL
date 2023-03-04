@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\bin\Debug\Tiketv1.0.exe.config
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\bin\Debug\Tiketv1.0.exe
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\bin\Debug\Tiketv1.0.pdb
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\bin\Debug\DBLayer.dll
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\obj\Debug\Tiketv1.0.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\obj\Debug\Tiketv1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\obj\Debug\Tiketv1._0.Properties.Resources.resources
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\obj\Debug\Tiketv1.0.csproj.GenerateResource.cache
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\obj\Debug\Tiketv1.0.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\obj\Debug\Tiketv1.0.csproj.CopyComplete
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\obj\Debug\Tiketv1.0.exe
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\obj\Debug\Tiketv1.0.pdb
+C:\Users\David\source\repos\foivz\pi22-zadace-davidkajzogaj\Software\Tiketv1.0\Tiketv1.0\obj\Debug\Tiketv1._0.FrmTiket.resources
